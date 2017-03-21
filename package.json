@@ -1,0 +1,24 @@
+{
+  "name": "unicron",
+  "version": "0.0.1",
+  "description": "Framework for DHTMLX based web applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:web2solucoes/Unicron.git"
+  },
+  "keywords": [
+    "dhtmlx",
+    "framework",
+    "app"
+  ],
+  "author": "Eduardo Almeida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/web2solucoes/Unicron/issues"
+  },
+  "homepage": "https://github.com/web2solucoes/Unicron#readme"
+}

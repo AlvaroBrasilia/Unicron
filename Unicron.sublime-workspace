@@ -1,0 +1,1318 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"walk",
+				"walking\t(person.js)"
+			],
+			[
+				"valid",
+				"validation\t(dhx.dhtmlx.js)"
+			],
+			[
+				"po",
+				"position\t(app.css)"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"marginL",
+				"marginLeft\tStyle CSS"
+			],
+			[
+				"tab",
+				"tabbar"
+			],
+			[
+				"getTime",
+				"getTime(): number\tDate"
+			],
+			[
+				"inner",
+				"innerHTML\t(view.js)"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"check",
+				"checkbox\t(befund.js)"
+			],
+			[
+				"conta",
+				"contains"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"field",
+				"fieldset"
+			],
+			[
+				"canvas_",
+				"canvas_layers"
+			],
+			[
+				"view",
+				"viewer"
+			],
+			[
+				"left",
+				"left_pressed"
+			],
+			[
+				"settin",
+				"settings"
+			],
+			[
+				"contains",
+				"contains(value)\tshim.js"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"lay",
+				"layers"
+			],
+			[
+				"lowerC",
+				"toLowerCase()"
+			],
+			[
+				"rendered",
+				"rendered_teeth"
+			],
+			[
+				"subs",
+				"substr"
+			],
+			[
+				"setTime",
+				"setTimeout( handler: any, timeout?: long, arguments...: any ): long\tWindow"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"isNum",
+				"isNumber(n)\tdhx.js"
+			],
+			[
+				"progressOff",
+				"progressOff()\tdhtmlx_.js"
+			],
+			[
+				"tabbar",
+				"tabbar_1"
+			],
+			[
+				"progre",
+				"progressOff()\tdhtmlx_.js"
+			],
+			[
+				"Lückensch",
+				"LückenschluB"
+			],
+			[
+				"toot",
+				"tooth_numbers"
+			],
+			[
+				"trans",
+				"transparent\t(colorchanger.html)"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"chil",
+				"childNodes"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"canvas",
+				"canvas_tooth"
+			],
+			[
+				"data",
+				"dataview"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"assigned",
+				"assigned_to"
+			],
+			[
+				"coll",
+				"collapse"
+			],
+			[
+				"server",
+				"server.png\t(customers.js)"
+			],
+			[
+				"setText",
+				"setText(c)\tdhtmlx_.js"
+			],
+			[
+				"cold_",
+				"col_id"
+			],
+			[
+				"join",
+				"join()\tunderscore.string.js"
+			],
+			[
+				"isD",
+				"isDate(d)\tutil.js"
+			],
+			[
+				"prov",
+				"providers"
+			],
+			[
+				"main",
+				"maintenance"
+			],
+			[
+				"US",
+				"UScurrency\t(README.md)"
+			],
+			[
+				"history",
+				"history_payload"
+			],
+			[
+				"getSele",
+				"getSelectedRowId"
+			],
+			[
+				"_firs",
+				"_first_name"
+			],
+			[
+				"default",
+				"defaults"
+			],
+			[
+				"defaul",
+				"default\t(dhx.ui.mvp.js)"
+			],
+			[
+				"ask",
+				"askPermission"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"thr",
+				"throw\t(Gulpfile.js)"
+			],
+			[
+				"client",
+				"client_id"
+			],
+			[
+				"route_ha",
+				"route_handler\tdhx.ui.mvp.js"
+			],
+			[
+				"namespace",
+				"namespace\tdhx.ui.mvp.js"
+			],
+			[
+				"string",
+				"stringify\t(Gulpfile.js)"
+			],
+			[
+				"attrib",
+				"attributes\t(backboneIDB.js)"
+			],
+			[
+				"names",
+				"namespace\tnamespace pattern"
+			],
+			[
+				"icon",
+				"iconName"
+			],
+			[
+				"strin",
+				"stringify()\tindex.js"
+			],
+			[
+				"commit",
+				"commit_message"
+			],
+			[
+				"thi",
+				"thirdparty\t(dhx.ui.mvp.js)"
+			],
+			[
+				"backbone",
+				"backbone-indexeddb.js\t(Gulpfile.js)"
+			],
+			[
+				"setrsa",
+				"setRSA64(originalStr)\tdhx.crypt.js"
+			],
+			[
+				"rand",
+				"random()\tunrandomize.js"
+			],
+			[
+				"IS",
+				"IS_Client"
+			],
+			[
+				"_wra",
+				"_wrapper\t(xperts_overview.js)"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"layout_xp",
+				"layout_xperts\torganizations_view.js"
+			],
+			[
+				"setT",
+				"setText\t(view.js)"
+			],
+			[
+				"organizat",
+				"organization\t(MindCrowd.REST.js)"
+			],
+			[
+				"selectedRowI",
+				"self.grid.getSelectedRowId\t(my_jobs_view.js)"
+			],
+			[
+				"grid_jo",
+				"grid_jobs"
+			],
+			[
+				"list_jo",
+				"list_jobs\t(MindCrowd.REST.js)"
+			],
+			[
+				"keys",
+				"keys()\tlru-cache.js"
+			],
+			[
+				"Ob",
+				"Obj()\tindex.js"
+			],
+			[
+				"owner",
+				"owners\t(model.js)"
+			],
+			[
+				"IS_",
+				"IS_Xpert"
+			],
+			[
+				"mem",
+				"members"
+			],
+			[
+				"IS_C",
+				"IS_Client"
+			],
+			[
+				"IS_XP",
+				"IS_Xpert"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"CAN",
+				"CAN_POST\t(organizations_view.js)"
+			],
+			[
+				"inpu",
+				"inputWidth\t(view.js)"
+			],
+			[
+				"xperts",
+				"xperts\torganization.js"
+			],
+			[
+				"own",
+				"owners"
+			],
+			[
+				"form_permiss",
+				"form_permissions_onchange_handler\t(user_management_view.js)"
+			],
+			[
+				"offs",
+				"offset\t(organizations_view.js)"
+			],
+			[
+				"getse",
+				"getSelectedRowId"
+			],
+			[
+				"toolbar_fi",
+				"toolbar_file"
+			],
+			[
+				"work",
+				"workers"
+			],
+			[
+				"oncli",
+				"onclick()\tposted_jobs_view.js"
+			],
+			[
+				"orga",
+				"organization"
+			],
+			[
+				"worker",
+				"workers\t(job.js)"
+			],
+			[
+				"organiza",
+				"organization"
+			],
+			[
+				"getele",
+				"getElementById(\"progress"
+			],
+			[
+				"_chil",
+				"_child_views\t(dhx.ui.mvp.js)"
+			],
+			[
+				"_button",
+				"_button1"
+			],
+			[
+				"env",
+				"envelope"
+			],
+			[
+				"billing",
+				"billing_method"
+			],
+			[
+				"job_",
+				"job_status"
+			],
+			[
+				"session",
+				"session_hash"
+			],
+			[
+				"simple",
+				"simple_text"
+			],
+			[
+				"billing_",
+				"billing_method\t(organizations_view.js)"
+			],
+			[
+				"acce",
+				"accepted"
+			],
+			[
+				"grid_",
+				"grid_xperts"
+			],
+			[
+				"fill_gri",
+				"fill_grid_tracker"
+			],
+			[
+				"sap_compo",
+				"sap_components\tservice_request_update_view.js"
+			],
+			[
+				"getC",
+				"getCombo"
+			],
+			[
+				"Bi",
+				"Bidding"
+			],
+			[
+				"attri",
+				"attributte\t(model.js)"
+			],
+			[
+				"sap_component",
+				"sap_components"
+			],
+			[
+				"primary_s",
+				"primary_sap_components"
+			],
+			[
+				"other_",
+				"other_modules_in_use"
+			],
+			[
+				"Compoen",
+				"Components\t(posted_jobs_view.js)"
+			],
+			[
+				"get_sap_",
+				"get_sap_systems"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 895,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "INSTA",
+		"selected_items":
+		[
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Class Navigator: Go to Class"
+			],
+			[
+				"naviga",
+				"Class Navigator: Go to Class"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"gu",
+				"Gulp"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"GULP",
+				"Gulp"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gupl",
+				"Gulp: List plugins"
+			],
+			[
+				"gul",
+				"Gulp"
+			],
+			[
+				"lint",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gulp dist",
+				"Gulp: Exit editor killing running tasks"
+			],
+			[
+				"gulp ",
+				"Gulp"
+			],
+			[
+				"mongo",
+				"MongoExec: List connections"
+			],
+			[
+				"MongoExec",
+				"MongoExec: List databases"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"jsli",
+				"JSLint"
+			],
+			[
+				"jsbe",
+				"Javascript Beautify"
+			],
+			[
+				"names",
+				"Snippet: namespace pattern"
+			],
+			[
+				"pattern",
+				"Snippet: namespace pattern"
+			],
+			[
+				"jslin",
+				"JSLint"
+			],
+			[
+				"js",
+				"Snippet: JS AMD module pattern"
+			],
+			[
+				"javas",
+				"Javascript Beautify"
+			],
+			[
+				"Snippet: java",
+				"Snippet: JS revealing module pattern"
+			],
+			[
+				"Markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Prototype"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"./gulp",
+			"gulp dist",
+			"empty",
+			"cls",
+			"clear",
+			"gulp",
+			">>> gulp",
+			"gulp",
+			"use cgi;",
+			"print",
+			"clear",
+			"var a =1;",
+			"var a",
+			"console.log(port)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/eduardoalmeida/apps/Unicron"
+	],
+	"file_history":
+	[
+		"/Users/eduardoalmeida/apps/Unicron/optimus.js",
+		"/Users/eduardoalmeida/apps/Unicron/index.js",
+		"/Users/eduardoalmeida/apps/optimus-start/README.md",
+		"/Users/eduardoalmeida/apps/optimus/index.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/transpile.html",
+		"/Users/eduardoalmeida/apps/TimeTracker/scripts/optimus.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/scripts/women.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/scripts/men.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/scripts/person.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/scripts/main.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/test.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/index.html",
+		"/Users/eduardoalmeida/apps/TimeTracker/transpile2.html",
+		"/Users/eduardoalmeida/apps/TimeTracker/node_modules/tracker.js",
+		"/Users/eduardoalmeida/apps/angular2App/package.json",
+		"/Users/eduardoalmeida/apps/TimeTracker/scripts/main1.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/app.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/scripts/require.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/transpile.js",
+		"/Users/eduardoalmeida/apps/es6-studies/person.html",
+		"/Users/eduardoalmeida/apps/es6-studies/person-require.html",
+		"/Users/eduardoalmeida/apps/TimeTracker/t.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/node_modules/men.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/node_modules/person.js",
+		"/Users/eduardoalmeida/apps/es6-studies/person.js",
+		"/Users/eduardoalmeida/apps/es6-studies/men.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/conf.json",
+		"/Users/eduardoalmeida/apps/TimeTracker/package.json",
+		"/Users/eduardoalmeida/apps/TimeTracker/node_modules/babel-preset-es2015/lib/index.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/person.js",
+		"/Users/eduardoalmeida/apps/TimeTracker/men.js",
+		"/Users/eduardoalmeida/apps/dental-office/deps/dhx/dhx.ui.i18n.pt-br.js",
+		"/Users/eduardoalmeida/apps/dental-office/deps/dhx/dhx.ui.form.spinner.js",
+		"/Users/eduardoalmeida/apps/dental-office/deps/dhx/dhx.component.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/view/befund.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/view/view.js",
+		"/Users/eduardoalmeida/apps/dental-office/deps/dhx/dhx.ui.form.js",
+		"/Users/eduardoalmeida/apps/dental-office/deps/dhx/dhx.excells.js",
+		"/Users/eduardoalmeida/apps/dental-office/assets/css/app.css",
+		"/Users/eduardoalmeida/apps/dental-office/deps/dhx/dhx.ui.mvp.js",
+		"/Users/eduardoalmeida/apps/dental-office/deps/dhx/dhx.dhtmlx.js",
+		"/Users/eduardoalmeida/apps/dental-office/deps/dhx/shim.js",
+		"/Users/eduardoalmeida/apps/dental-office/deps/dhx/dhx.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/teeth.js",
+		"/Users/eduardoalmeida/apps/wordpress/www.example.dev/wp-content/plugins/plugin-name/plugin-name.php",
+		"/Users/eduardoalmeida/apps/dental-office/lib/view/patient_form.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/presenter/patient_form.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/presenter/patinfo.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/view/auswahl.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/view/leistungserfassung.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/presenter/auswahl.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/teeth_parser.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/presenter/leistungserfassung.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/view/patinfo.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/view/kartei.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/view/editor_tinymce.js",
+		"/Users/eduardoalmeida/apps/dental-office/boilerplate_sidebar.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/presenter/editor_webodf.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/view/editor_webodf.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/view/editor_ck.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/presenter/editor_ck.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/presenter/editor_tinymce.js",
+		"/Users/eduardoalmeida/Desktop/music/rename.pl",
+		"/Users/eduardoalmeida/Desktop/music/rename2.pl",
+		"/Users/eduardoalmeida/apps/dental-office/deps/thirdparty/ckeditor/samples/js/sample.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/view/view_name.js",
+		"/Users/eduardoalmeida/apps/dental-office/deps/thirdparty/tinymce/js/tinymce/tinymce.dev.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/presenter/presenter_name.js",
+		"/Users/eduardoalmeida/apps/dental-office/public/doc.html",
+		"/Users/eduardoalmeida/apps/dental-office/lib/presenter/kartei.js",
+		"/Users/eduardoalmeida/apps/dental-office/deps/thirdparty/spinner/README.md",
+		"/Users/eduardoalmeida/apps/dental-office/index.html",
+		"/Users/eduardoalmeida/apps/dental-office/deps/thirdparty/spinner/js/jquery.spinner.css",
+		"/Users/eduardoalmeida/apps/dental-office/deps/thirdparty/spinner/dist/css/bootstrap-spinner.css",
+		"/Users/eduardoalmeida/apps/dental-office/lib/view/rechnungslist.js",
+		"/Users/eduardoalmeida/apps/dental-office/index2.html",
+		"/Users/eduardoalmeida/apps/dental-office/deps/thirdparty/dhtmlx5.0/dhtmlx_.js",
+		"/Users/eduardoalmeida/apps/dental-office/deps/thirdparty/dhtmlx5.0/dhtmlx.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/presenter/presenter.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/presenter/befund.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/presenter/rechnungslist.js",
+		"/Users/eduardoalmeida/apps/dental-office/README.md",
+		"/Users/eduardoalmeida/apps/dental-office/LICENSE",
+		"/Users/eduardoalmeida/apps/dental-office/node_modules/poncho/node_modules/phantomjs/node_modules/request/request.js",
+		"/Users/eduardoalmeida/apps/dental-office/_lib/helpers/tooth_drawer.js",
+		"/Users/eduardoalmeida/apps/dental-office/_lib/helpers/teeth_parser_struct.js",
+		"/Users/eduardoalmeida/apps/dental-office/_lib/helpers/teeth_struct.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/component API doc.md",
+		"/Users/eduardoalmeida/apps/dental-office/lib/view/help.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/presenter/help.js",
+		"/Users/eduardoalmeida/apps/dental-office/node_modules/gulp-notify/node_modules/node.extend/node_modules/is/test/index.js",
+		"/Users/eduardoalmeida/apps/dental-office/deps/dhx/dhx.ui.router.js",
+		"/Users/eduardoalmeida/apps/dental-office/deps/dhx/min.dhx.ui.mvp.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/model/engines/backboneIDB.js",
+		"/Users/eduardoalmeida/apps/dental-office/deps/dhx/dhx.ui.Mediator.js",
+		"/Users/eduardoalmeida/apps/dental-office/befundn.html",
+		"/Users/eduardoalmeida/apps/dental-office/_lib/view/befund.js",
+		"/Users/eduardoalmeida/apps/dental-office/lib/view/customer_servers.js",
+		"/Users/eduardoalmeida/apps/dental-office/boilerplate_sidebar.html",
+		"/Users/eduardoalmeida/apps/dental-office/_lib/presenter/befund.js",
+		"/Users/eduardoalmeida/apps/dental-office/.gitignore",
+		"/Users/eduardoalmeida/apps/dental-office/MVP/package.json",
+		"/Users/eduardoalmeida/apps/dental-office/app.css",
+		"/Users/eduardoalmeida/apps/dental-office/befund.html",
+		"/Users/eduardoalmeida/apps/dental-office/colorchanger.html",
+		"/Users/eduardoalmeida/apps/dhxMVP/lib/model/models/user.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/server/lib/controllers/user.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/index.html",
+		"/Users/eduardoalmeida/apps/dhxMVP/deps/dhx/dhx.ui.mvp.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/firebase_login.html",
+		"/Users/eduardoalmeida/apps/dhxMVP/boilerplate_sidebar.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/server/lib/config.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/server/lib/models/user.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/lib/model/models/server.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/lib/model/models/provider.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/lib/model/models/ip.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/lib/model/models/customer.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/server/deployment/start.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/server/lib/dhxmvp.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/server/lib/base.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/server/lib/base/echo.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/server/lib/email.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/server/lib/base/user.js",
+		"/Users/eduardoalmeida/apps/dhxMVP/server/package.json",
+		"/Users/eduardoalmeida/apps/dhxMVP/server/README.md",
+		"/Users/eduardoalmeida/apps/dhxMVP/server/templates/email/welcome.jade",
+		"/Users/eduardoalmeida/apps/dhxMVP/server/templates/email/passwordreset.jade",
+		"/Users/eduardoalmeida/apps/dhxMVP/server/daemon.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 232.0,
+		"where_history":
+		[
+			"/Users/eduardoalmeida/apps/dental-office/deps/dhx",
+			"/Users/eduardoalmeida/apps/dental-office/lib",
+			"/Users/eduardoalmeida/apps/dhxMVP/lib",
+			"/Users/eduardoalmeida/apps/dhxMVP/server/lib",
+			"/Users/eduardoalmeida/apps/dhxMVP/server",
+			"/Users/eduardoalmeida/apps/dhxMVP/lib",
+			"/Users/eduardoalmeida/apps/dhxMVP/deps",
+			"/Users/eduardoalmeida/apps/dhxMVP/lib",
+			"/Users/eduardoalmeida/apps/dhxMVP/",
+			"/Users/eduardoalmeida/apps/dhxMVP/lib/",
+			"/Users/eduardoalmeida/apps/dhxMVP/lib/presenter",
+			"/Users/eduardoalmeida/apps/dhxMVP/lib/view",
+			"/Users/eduardoalmeida/apps/dhxMVP/lib/",
+			"/Users/eduardoalmeida/apps/dhxMVP/lib/view",
+			"/Users/eduardoalmeida/apps/dhxMVP/",
+			"/Users/eduardoalmeida/apps/sap-desk-web/application/",
+			"/Users/eduardoalmeida/apps/sap-desk-web/application/lib",
+			"/Users/eduardoalmeida/apps/sap-desk-web/application",
+			"/Users/eduardoalmeida/apps/sap-desk/lib",
+			"/Users/eduardoalmeida/apps/sap-desk/application/lib",
+			"/Users/eduardoalmeida/apps/sap-desk-web/application/lib",
+			"/Users/eduardoalmeida/apps/sap-desk/lib",
+			"/Users/eduardoalmeida/apps/sap-desk/application/lib",
+			"/Users/eduardoalmeida/apps/sap-desk-web/application/lib",
+			"",
+			"untiled.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"main",
+			"require",
+			"test",
+			"docum",
+			"window",
+			"patinfo",
+			"$dhx.ui.i18n",
+			"dhx.dhtmlx",
+			"validation_notEmpty",
+			".js",
+			"in8",
+			"i8",
+			"language",
+			"hkp",
+			"patinfo",
+			"scheduler/",
+			"../skins",
+			"../dhtmlx_suite/",
+			"../dhtmlx_scheduler/",
+			"that",
+			"curs",
+			"setCursor",
+			"setcur",
+			"currency",
+			"focus",
+			"self.component.settings._",
+			"spinnerSetInitialValue",
+			"initialva",
+			"inputini",
+			"inputni",
+			"initial",
+			"dispatch",
+			"focus",
+			"f_float",
+			"increment_number",
+			"f_float",
+			"precision",
+			"br_cu",
+			"currency",
+			"br_curre",
+			"spinnerCreateArrow",
+			"spinnerCreateUpArrow",
+			"up",
+			"spinnerDispatchArrowEvent",
+			"number_of_spinners_created",
+			"custom_",
+			"float .",
+			"do",
+			"left =",
+			"<i",
+			"precision_counter",
+			"placeholder",
+			"spinnerDoArrowClick",
+			"getSeparator",
+			"getInput",
+			"console.log",
+			"setSeparator",
+			"createMainArrowsWrapper",
+			"createArrows",
+			"doArrowClick",
+			"setFormFieldInitialValue",
+			"inputSetInitialValue",
+			"clearIfEmpty",
+			"setInitialValue",
+			"setNumberOfSpinners",
+			"setSize",
+			"number_of_arrows",
+			"backgro",
+			"backgo",
+			"evt",
+			"_eve",
+			"keyup_event",
+			"dispa",
+			"doArrowClick",
+			"curre",
+			"alert",
+			"setse",
+			"alert",
+			"initial",
+			"alert",
+			"up",
+			"setSeparator",
+			"separa",
+			"clearIfEmpty",
+			"ormFieldInitialValue",
+			"click",
+			"formFieldInitialValue",
+			"addeve",
+			"currency",
+			"addev",
+			"left",
+			"arrows_wrapper",
+			"self.number_of_spinners_created",
+			"number_of_spinners_created",
+			"setSeparator",
+			".call",
+			"paddin",
+			"left =",
+			"overflow",
+			"left_arrow_wrapper",
+			"setArrowsWrappers",
+			"number_of",
+			"left_arrow_wrapper",
+			"right_1_arrow_wrapper",
+			"right_arrow_wrapper",
+			"arrows_wrapper",
+			"create",
+			"border",
+			"space",
+			"console.log( self.number_of_spinners );",
+			"number_of",
+			" 2",
+			"2",
+			"left = ",
+			"date time",
+			"getNumberOfSpinners",
+			"left =",
+			"setse",
+			"sesepa",
+			"setSeparator",
+			"separator",
+			"number_of_spinners",
+			"setNumberOfSpinners",
+			"number_of_spinners",
+			"10",
+			"arrows_wrapper",
+			"setArrows",
+			"self."
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hkp",
+			"scheduler_pro/",
+			"deps/thirdparty/dhtmlx5.0/skins/",
+			"deps/thirdparty/dhtmlx5.0/",
+			"deps/thirdparty/dhtmlx5.0/scheduler/",
+			"spinnerDispatchArrowClickEvent",
+			"spinnerSetSeparator",
+			"spinnerCreateMainArrowsWrapper",
+			"spinnerCreateArrows",
+			"spinnerDoArrowClick",
+			"inputSetInitialValue",
+			"inputClearIfEmpty",
+			"inputSetInitialValue",
+			"spinnerSetNumberOf",
+			"spinnerSetSize",
+			"spinner_number_of_arrows",
+			"number_of_spinners_created",
+			"right_1_arrow_wrapper",
+			"this.",
+			"self.",
+			"editor_webodf",
+			"'all'",
+			"view_name",
+			"presenter_name",
+			"view_name",
+			"ck",
+			"editor_ck",
+			"editor_tinymce",
+			"",
+			"editor_tinymce",
+			"dataview",
+			"_vorsoge",
+			"[ uid ]",
+			"self.selected_form_color[ uid ]",
+			"self.selected_field_type[ uid ]",
+			"self.selected_field_value[ uid ]",
+			"self.selected_field_name[ uid ]",
+			"",
+			"list[ uid ].",
+			"mouth[ uid ].",
+			"layout_auswahl_bottom[ uid ].",
+			"form_2[ uid ].",
+			"form_1[ uid ].",
+			"leistungserfassung",
+			"onXLE",
+			"layout",
+			"teeth",
+			"toolbar_taskbar",
+			"rendering spent time",
+			"view.settings",
+			"self.grid",
+			"self.form",
+			"form",
+			"rechnungslist",
+			"self.grid",
+			"",
+			"self = this",
+			"",
+			"selectToothPath",
+			",\n                        c",
+			"",
+			":",
+			"(",
+			":(",
+			"( ",
+			":",
+			":(",
+			"top: 0,\n                        bottom: 0,",
+			"checkIfLayerExistAndDelete",
+			"srcName",
+			"temp_canvas_ctx",
+			"temp_canvas",
+			"\"assets/icons/flaechen/f1w.gif\"",
+			"\"assets/icons/flaechen/m2w.gif\"",
+			"\"assets/icons/flaechen/m1w.gif\"",
+			"\"assets/icons/flaechen/m3w.gif\"",
+			"instance.",
+			"instance",
+			"self.id",
+			"self.mouth.",
+			"self.mouth",
+			"self.c.id",
+			"self.c.mouth",
+			"self.",
+			"this.",
+			"self.setTooth(\"",
+			"setTooth",
+			"_tooth_thumb_divs",
+			"calculateAspectRatio",
+			"assets/icons/flaechen/",
+			"assets/icons/flaechen",
+			"assets/icons",
+			"icons",
+			"",
+			"instance",
+			"jaw_",
+			"jaw",
+			"instance",
+			"patinfo",
+			"self.icons_path",
+			"kartei",
+			"self.",
+			"this",
+			"self.view.grid.showRow",
+			"self.view.grid.cells",
+			"dhx.isNumber",
+			"#dhx.isNumeric",
+			"self.view",
+			"view.form_2",
+			"view.for_2",
+			"} ]",
+			"view.form_1",
+			"self.view.grid",
+			"self.grid",
+			"auswahl",
+			"self.view.",
+			"self.view",
+			"teeth_parser_struct",
+			"self.presenter.settings",
+			"self.presenter.dataviewButtonsOnItemClickHandler",
+			"self",
+			"png",
+			"\"",
+			"assets/icons/",
+			"_kons",
+			"",
+			"tooth_image",
+			"},"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MongoExec.errors":
+	{
+		"height": 100.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 143.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "Unicron.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gulp",
+				"Gulpfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/apps/TimeTracker/timetracker.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
